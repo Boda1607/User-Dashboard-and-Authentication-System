@@ -1,5 +1,5 @@
-# User-Dashboard-and-Authentication-System
-Description:
+## User-Dashboard-and-Authentication-System
+#Description:
 A PHP-based project featuring a secure user dashboard and authentication system. This system allows users to log in, manage their profiles, book appointments, and view website information. Designed with a modern, responsive UI using HTML, CSS, and inline JavaScript for enhanced interactivity.
 
 Features:
